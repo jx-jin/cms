@@ -17,7 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-<span style="font-size:16px">介绍:</sapn>
+<div style="font-size:18px;font-weight:600">介绍:</div>
 
 vue+element  超简单demo 只写前端页面无后端逻辑 数据mock
 
